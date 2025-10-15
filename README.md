@@ -28,9 +28,6 @@ W oparciu o zdobytą wiedzę dostrzegam szerokie możliwości wykorzystania sztu
 - wspieranie decyzji biznesowych poprzez analizę danych i generowanie prognoz,
 - wdrażanie rozwiązań opartych na AI z uwzględnieniem aspektów etycznych i ludzkich.
 
-|:---:|:---:|
-| ![Certyfikat PL](./Umiejętności jutra aI - PL.pdf) | ![Certificate EN](./Umiejętności jutra AI - EN.pdf) |
-
 ---
 
 *Jestem gotowa wykorzystać zdobytą wiedzę w praktyce i pozostawać na bieżąco z technologiami przyszłości!* 🚀
