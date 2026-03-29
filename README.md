@@ -1,33 +1,53 @@
-# 📜 Certyfikaty i Kompetencje 📜
+# 📜 Certificates & Competencies 📜
 
-W tej sekcji przedstawiam zdobyte certyfikaty oraz kluczowe kompetencje, które rozwinęłam podczas licznych kursów, szkoleń i praktycznych projektów.
-
----
-
-## 🤖 Umiejętności Jutra AI 2
-
-**Wydawca:** Google  
-**Certyfikaty:** 🇵🇱 Polski | 🇬🇧 English
-
-### Czego się nauczyłam:
-Podczas kursu poznałam praktyczne sposoby wykorzystania sztucznej inteligencji w biznesie i codziennej pracy. Nauczyłam się, jak AI może wspierać rozwój firmy, usprawniać komunikację w zespole i automatyzować procesy.
-
-- **Narzędzia AI** – efektywne wykorzystanie AI do zwiększenia produktywności
-- **Biznes i zespół** – wsparcie rozwoju firmy i współpracy w zespole
-- **Marketing i sprzedaż** – praktyczne zastosowanie AI w procesach sprzedażowych i marketingowych
-- **Analiza danych** – wykorzystanie AI do analizy i interpretacji danych biznesowych
-- **Zarządzanie zmianą** – implementacja AI w organizacji i zarządzanie transformacją cyfrową
-
-### Zastosowanie w praktyce:
-W oparciu o zdobytą wiedzę dostrzegam szerokie możliwości wykorzystania sztucznej inteligencji w codziennej pracy oraz w środowisku biznesowym, m.in. poprzez:
-
-- automatyzację powtarzalnych zadań z wykorzystaniem nowoczesnych narzędzi AI,
-- tworzenie treści marketingowych (tekstów, grafik, materiałów wideo) wspomaganych przez AI,
-- analizę danych klientów i identyfikację trendów rynkowych,
-- usprawnienie komunikacji i organizacji pracy w zespołach dzięki inteligentnym narzędziom,
-- wspieranie decyzji biznesowych poprzez analizę danych i generowanie prognoz,
-- wdrażanie rozwiązań opartych na AI z uwzględnieniem aspektów etycznych i ludzkich.
+In this section, I present the certificates I have earned and the key competencies I have developed through various courses, training programs, and practical projects.
 
 ---
 
-*Jestem gotowa wykorzystać zdobytą wiedzę w praktyce i pozostawać na bieżąco z technologiami przyszłości!* 🚀
+## 🛡️ Cybersecurity Practitioner
+**Issuer:** IBM
+
+### What I learned:
+During this advanced course, I gained practical knowledge in modern Security Operations Center (SOC) environments, threat analysis, and incident response orchestration. I learned how to identify, investigate, and mitigate cyber threats using industry-leading tools and frameworks.
+
+* **Incident Management (SIEM)** – correlating logs and analyzing network flows in IBM QRadar to detect complex attacks and prioritize security Offenses.
+* **AI in Security** – leveraging Watson Advisor for QRadar to automate investigations, analyze threat intelligence, and visualize attack graphs.
+* **Attack Frameworks** – applying the X-Force IRIS Framework and Cyber Kill Chain to understand adversary behaviors from the preparation phase to execution.
+* **Proactive Threat Hunting** – using Threat Intelligence to proactively hunt for hidden threats and address vulnerabilities before they are exploited.
+* **SOC Architecture** – understanding the distinct roles and workflows of L1 (Triage), L2 (Incident Response & Root Cause Analysis), and L3 (Threat Hunting & Orchestration) analysts.
+* **Compliance & Law** – navigating security regulations, including the strict 72-hour breach reporting requirements under GDPR.
+
+### Practical application:
+Based on this knowledge, I am equipped to support enterprise security efforts by:
+* filtering out false positives and escalating critical incidents effectively,
+* utilizing SIEM platforms and AI tools to accelerate threat investigations,
+* understanding the mindset of cyber adversaries to improve defensive strategies,
+* collaborating smoothly within a structured SOC environment to ensure rapid incident response.
+
+---
+
+## 🤖 Skills of Tomorrow AI 2 (Umiejętności Jutra AI 2)
+**Issuer:** Google  
+**Certificates:** 🇵🇱 Polish | 🇬🇧 English
+
+### What I learned:
+During the course, I discovered practical ways to utilize artificial intelligence in business and daily workflows. I learned how AI can drive company growth, streamline team communication, and automate routine processes.
+
+* **AI Tools** – effectively leveraging AI to boost personal and team productivity.
+* **Business and Team** – supporting company development and enhancing team collaboration.
+* **Marketing and Sales** – applying AI practically in sales funnels and marketing campaigns.
+* **Data Analysis** – using AI to analyze, interpret, and draw insights from business data.
+* **Change Management** – implementing AI within an organization and guiding digital transformation.
+
+### Practical application:
+Drawing on this knowledge, I see extensive opportunities to integrate artificial intelligence into daily operations and business environments, including:
+* automating repetitive tasks using modern AI solutions,
+* creating AI-assisted marketing content (copywriting, graphics, video materials),
+* analyzing customer data and identifying emerging market trends,
+* improving team communication and workflow organization through smart tools,
+* supporting business decisions by analyzing complex datasets and generating forecasts,
+* deploying AI-based solutions with a strong focus on ethical and human-centric aspects.
+
+---
+
+*I am ready to put this knowledge into practice and stay up-to-date with the technologies of the future!* 🚀
